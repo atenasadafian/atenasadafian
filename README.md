@@ -24,3 +24,15 @@ moving toward modern frontend development with React.
 
 I enjoy learning by building real projects, breaking things,
 understanding why they work, and improving them step by step.
+
+### What I'm Building
+
+I don't want to collect tutorials.
+
+I want to build.
+
+My current focus is turning what I learn into small,
+complete projects that I can understand, explain,
+improve, and eventually ship.
+
+Learn → Build → Break → Understand → Improve → Ship
