@@ -35,4 +35,4 @@ My current focus is turning what I learn into small,
 complete projects that I can understand, explain,
 improve, and eventually ship.
 
-Learn → Build → Break → Understand → Improve → Ship
+        Learn → Build → Break → Understand → Improve → Ship
