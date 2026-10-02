@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**atenasadafian/atenasadafian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Atena Sadafian
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Developer in progress.
+
+I’m learning to turn ideas into thoughtful, accessible,
+and well-crafted web experiences.
+
+  HTML → CSS → JavaScript → React → Next.js
+
+
+### About
+
+
+I'm currently building my foundation in frontend development,
+with a focus on understanding the fundamentals rather than
+just learning how to make things work.
+
+
+I've completed HTML, CSS, and JavaScript, and I'm now
+moving toward modern frontend development with React.
+
+
+I enjoy learning by building real projects, breaking things,
+understanding why they work, and improving them step by step.
