@@ -7,7 +7,7 @@
 I’m learning to turn ideas into thoughtful, accessible,
 and well-crafted web experiences.
 
-  HTML → CSS → JavaScript → React → Next.js
+    HTML → CSS → JavaScript → React → Next.js
 
 
 ### About
